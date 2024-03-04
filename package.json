@@ -1,0 +1,23 @@
+{
+  "name": "crypto-gem-detector",
+  "version": "1.0.1",
+  "description": "Node.js application to detect potential cryptocurrency gems",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "crypto",
+    "cryptocurrency",
+    "gem",
+    "detector"
+  ],
+  "author": "Gideon",
+  "license": "Open source",
+  "dependencies": {
+    // Adding dependencies on my application soon
+  },
+  "devDependencies": {
+    // Adding development dependencies soon
+  }
+}
